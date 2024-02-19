@@ -1,0 +1,18 @@
+spring:
+  data:
+    cassandra:
+      contact-points: localhost
+      port: 9042
+      keyspace-name: simple_crud
+      username: cassandra
+      password: cassandra
+      #schema-act: create_if_not_exists
+
+springdoc:
+  version: 1.0.0
+  swagger-ui:
+    path: /swagger-ui-custom.html
+
+#logging:
+#  level:
+#    root: DEBUG
