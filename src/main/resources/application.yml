@@ -6,7 +6,7 @@ spring:
       keyspace-name: simple_crud
       username: cassandra
       password: cassandra
-      #schema-act: create_if_not_exists
+      schema-act: create_if_not_exists
 
 springdoc:
   version: 1.0.0
