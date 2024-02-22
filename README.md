@@ -1,5 +1,7 @@
 # spring-boot-cassandra-crud
 
+- ![1](https://github.com/webVueBlog/spring-boot-cassandra-crud/assets/59645426/2ec8423e-1bbf-4a18-867a-1673cab1e768)
+
 带有Cassandra DB的Spring boot CRUD（创建，读取，更新，删除）演示应用程序。
 在此应用程序中，我们使用spring数据和cassandra DB实现了CRUD（创建，读取，更新，删除）操作。
 
